@@ -1,3 +1,3 @@
-module artyom.dev/colordiff
+module github.com/glenntam/colordiff
 
-go 1.19
+go 1.26

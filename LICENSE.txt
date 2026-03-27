@@ -1,5 +1,6 @@
 ISC License
 
+Copyright (c) 2026 Glenn Tam
 Copyright (c) 2022 Artyom Pervukhin
 
 Permission to use, copy, modify, and/or distribute this software for any
